@@ -1,0 +1,1 @@
+Sitemap: https://fhilker.github.io/lab-website/sitemap.xml
