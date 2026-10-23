@@ -13,8 +13,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'prof' and group != 'alum'" %} 
+{% include list.html data="members" component="portrait" filter="role != 'prof' and group != 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -31,5 +31,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include grid.html style="square" content=content %}

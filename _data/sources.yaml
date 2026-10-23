@@ -1,23 +1,1617 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: doi:10.1007/s12080-024-00597-1
+  title: 'Allee pits in metapopulations: critical dispersal rates for connectivity
+    to be beneficial'
+  authors:
+  - Carolin Grumbach
+  - Frank M. Hilker
+  publisher: Theoretical Ecology
+  date: '2024-12-18'
+  link: https://doi.org/10.1007/s12080-024-00597-1
+  orcid: 0000-0001-5470-8889
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-024-00597-1/MediaObjects/12080_2024_597_Fig5_HTML.png?
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  - Allee effect
+  - metapopulation
+  - two-patch model
+  - fragmentation
+  - dispersal
+  - spatial ecology
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1016/j.tpb.2025.03.005
+  title: "Connectivity, conservation and catch: Understanding the effects of dispersal between harvested and protected patches"
+  authors:
+  - Femke N. Reurik
+  - Juan Segura
+  - Frank M. Hilker
+  publisher: Theoretical Population Biology
+  date: '2025-06-01'
+  link: https://doi.org/10.1016/j.tpb.2025.03.005
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0040580925000243-gr3.jpg
+  tags:
+  - harvesting
+  - protected area
+  - metapopulation
+  - two-patch model
+  - spatial ecology
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3243/kwe2025.04.001
+  title: Chaos in Einzel-Art-Systemen
+  authors:
+  - Johannes Werner
+  - Tobias Pietsch
+  - Frank M. Hilker
+  - Hartmut Arndt
+  publisher: Korrespondenz Wasserwirtschaft
+  date: '2025-04-01'
+  link: https://doi.org/10.3243/kwe2025.04.001
+  type: misc
+  image: https://de.dwa.de/assets/images/8/KW-2026-04-Leseprobe-600x848-d3p8qaf04qcd2cw.webp
+  description: Johannes Werner won first place in the 2024 Schwoerbel-Benndorf Young Scientist Award from the German Society for Limnology (DGL). This is the contribution to the journal of DWA (German Association for Water Management, Wastewater and Waste) for general water management issues.
+  tags:
+  - chaos
+  - population dynamics
+  - lab experiment
+
+- id: doi:10.58560/rmmsb.v03.n02.023.10
+  title: Current trends and perspectives in mathematical biology
+  authors:
+  - Frank M. Hilker
+  - Pedro Cenci Dal Castel
+  - Luiz Alberto D\xEDaz Rodrigues
+  - Guilherme S. Y. Giardini
+  - Diomar Cristina Mistro
+  - Marcelo Rossato
+  - Philip K. Maini
+  publisher: "Revista de Modelamiento Matem\xE1tico de Sistemas Biol\xF3gicos"
+  date: '2023-08-31'
+  link: https://doi.org/10.58560/rmmsb.v03.n02.023.10
+  type: misc
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80Uo7hFQdAAq8skpxEBNMAteBgOU2CJSe4Q&s
+  tags: mathematical biology
+
+- id: doi:10.1142/S0219198924400061
+  title: Selfish grower behavior can group-optimally eradicate plant diseases caused
+    by coinfection
+  authors:
+  - Frank M. Hilker
+  - Lea-Deborah Kolb
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  publisher: International Game Theory Review
+  date: '2024-04-18'
+  type: article
+  image: https://www.worldscientific.com/cms/10.1142/igtr/asset/185a87a6-cd18-a87a-3cd1-5a87a63cd185/cover.jpg
+  tags:
+  - epidemiology
+  - plant disease
+  - co-infection
+  - evolutionary game theory
+  - coupled human-environment system
+
+- id: doi:10.1007/s00285-023-01984-8
+  title: The effect of dispersal on asymptotic total population size in discrete-
+    and continuous-time two-patch models
+  authors:
+  - Carolin Grumbach
+  - Femke N. Reurik
+  - Juan Segura
+  - Daniel Franco
+  - Frank M. Hilker
+  publisher: Journal of Mathematical Biology
+  date: '2023-09-21'
+  link: https://doi.org/10.1007/s00285-023-01984-8
+  type: article
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00285-023-01984-8/MediaObjects/285_2023_1984_Fig2_HTML.png
+  tags:
+  - metapopulation
+  - two-patch model
+  - fragmentation
+  - dispersal
+  - spatial ecology
+  
+- id: doi:10.1007/s00285-023-01972-y
+  title: Spatial spread of infectious diseases with conditional vector preferences
+  authors:
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  - Frank M. Hilker
+  - Yves Dumont
+  publisher: Journal of Mathematical Biology
+  date: '2023-08-01'
+  link: https://doi.org/10.1007/s00285-023-01972-y
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-023-01972-y/MediaObjects/285_2023_1972_Fig11_HTML.png?
+  tags:
+  - epidemiology
+  - spatial ecology
+  - traveling wave
+  - wave reversal
+  - vector transmission
+
+- id: doi:10.1073/pnas.2209601119
+  title: Intrinsic nonlinear dynamics drive single-species systems
+  authors:
+  - Johannes Werner
+  - Tobias Pietsch
+  - Frank M. Hilker
+  - Hartmut Arndt
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-10-24'
+  link: https://doi.org/10.1073/pnas.2209601119
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.pnas.org/cms/10.1073/pnas.2209601119/asset/ef9394f5-54da-4566-b8f2-93c3dbb37e37/assets/images/large/pnas.2209601119fig01.jpg
+  tags:
+  - chaos
+  - nonlinear dynamics
+  - chemostat
+
+- id: doi:10.1002/pan3.10480
+  title: "Farmers' land\u2010use decision\u2010making: A dynamical modelling approach\
+    \ that integrates qualitative knowledge about social norms into a quantitative\
+    \ model"
+  authors:
+  - Irina Vortkamp
+  - Frank M. Hilker
+  publisher: People and Nature
+  date: '2023-06-05'
+  link: https://doi.org/10.1002/pan3.10480
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/b2d4c64f-2111-48c7-b4d8-9962ad415ca8/pan310480-fig-0006-m.png
+  tags:
+  - coupled human-environment system
+  - agri-environmental schemes
+
+- id: doi:10.1101/2022.04.28.489935
+  title: Dispersal between interconnected patches can reduce the total population
+    size
+  authors:
+  - Irina Vortkamp
+  - Christian Kost
+  - Marita Hermann
+  - Frank M. Hilker
+  publisher: bioRxiv
+  date: '2022-04-30'
+  link: https://doi.org/10.1101/2022.04.28.489935
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_article_logo.jpg
+  tags:
+  - metapopulation
+  - two-patch model
+  - fragmentation
+  - dispersal
+  - spatial ecology
+  - lab experiment
+
+- id: doi:10.1137/21M1416515
+  title: Bifurcation sequences in a discontinuous piecewise-smooth map combining constant-catch and threshold-based harvesting strategies
+  authors:
+  - Cristina Lois-Prados
+  - Frank M. Hilker
+  publisher: SIAM Journal on Applied Dynamical Systems
+  date: '2022-02-10'
+  link: https://doi.org/10.1137/21M1416515
+  type: article
+  image: https://epubs.siam.org/cms/10.1137/sjaday.25.1/asset/17efe4b1-1b17-fe4b-81b1-efe4b181b17e/cover.jpg
+  tags:
+  - harvesting
+  - dynamical system
+  - non-smooth
+
+- id: doi:10.1007/s11538-021-00927-y
+  title: 'Towards building a sustainable future: Positioning ecological modelling
+    for impact in ecosystems management'
+  authors:
+  - Donald L. DeAngelis
+  - Daniel Franco
+  - Alan Hastings
+  - Frank M. Hilker
+  - Suzanne Lenhart
+  - Frithjof Lutscher
+  - Natalia Petrovskaya
+  - Sergei Petrovskii
+  - Rebecca C. Tyson
+  publisher: Bulletin of Mathematical Biology
+  date: '2021-09-04'
+  link: https://doi.org/10.1007/s11538-021-00927-y
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-021-00927-y/MediaObjects/11538_2021_927_Fig1_HTML.png
+  tags:
+  - ecological modeling
+  - ecosystem management
+  - knowledge translation
+
+- id: doi:10.1111/nrm.12321
+  title: Optimal control of harvest timing in discrete population models
+  authors:
+  - Skylar Grey
+  - Suzanne Lenhart
+  - Frank M. Hilker
+  - Daniel Franco
+  publisher: Natural Resource Modeling
+  date: '2021-07-27'
+  link: https://doi.org/10.1111/nrm.12321
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://onlinelibrary.wiley.com/cms/asset/63aea2f8-fb8a-487b-a48a-f46e03323f3f/nrm12321-fig-0004-m.png
+  tags:
+  - harvesting
+  - optimal control
+  - semi-discrete model
+
+- id: doi:10.1016/j.jtbi.2020.110491
+  title: Comparison between best-response dynamics and replicator dynamics in a social-ecological model of lake eutrophication
+  authors:
+  - T. Anthony Sun
+  - Frank M. Hilker
+  publisher: Journal of Theoretical Biology
+  date: '2021-01-01'
+  link: https://doi.org/j.jtbi.2020.110491
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519320303465-gr3.jpg
+  tags:
+  - eutrophication
+  - coupled human-environment system
+  - evolutionary game theory
+
+- id: doi:10.1007/s12080-020-00465-8
+  title: Threshold harvesting as a conservation or exploitation strategy in population management
+  authors:
+  - Frank M. Hilker
+  - Eduardo Liz
+  publisher: Theoretical Ecology
+  date: '2020-06-20'
+  link: https://doi.org/10.1007/s12080-020-00465-8
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-020-00465-8/MediaObjects/12080_2020_465_Fig2_HTML.png?
+  tags:
+  - harvesting
+  - non-smooth
+
+- id: doi:10.1016/j.ecolmodel.2020.109208
+  title: Ecological Allee effects modulate optimal strategies for conservation in agricultural landscapes
+  authors:
+  - Irina Vortkamp
+  - "Fr\xE9d\xE9ric Barraquand"
+  - Frank M. Hilker
+  publisher: Ecological Modelling
+  date: '2020-11-01'
+  link: https://doi.org/10.1016/j.ecolmodel.2020.109208
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304380020302787-fx1_lrg.jpg
+  tags:
+  - agri-environment scheme
+  - coupled human-environment system
+  - ecological-economic model
+  - fragmentation
+
+- id: doi:10.1016/j.ecocom.2020.100834
+  title: Analyzing the mutual feedbacks between lake pollution and human behaviour in a mathematical social-ecological model
+  authors:
+  - T. Anthony Sun
+  - Frank M. Hilker
+  publisher: Ecological Complexity
+  date: '2020-08-01'
+  link: https://doi.org/10.1016/j.ecocom.2020.100834
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X19301333-gr1_lrg.jpg
+  tags:
+  - eutrophication
+  - coupled human-environment system
+  - social-ecological system
+  - evolutionary game theory
+
+- id: doi:10.1007/s12080-020-00462-x
+  title: Resource-harvester cycles caused by delayed knowledge of the harvested population state can be dampened by harvester forecasting
+  authors:
+  - Matthew W. Adamson
+  - Frank M. Hilker
+  publisher: Theoretical Ecology
+  date: '2020-05-16'
+  link: https://doi.org/10.1007/s12080-020-00462-x
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-020-00462-x/MediaObjects/12080_2020_462_Fig1_HTML.png
+  tags:
+  - harvesting
+  - coupled human-environment system
+  - social-ecological system
+  - time horizon
+  - knowledge transfer
+
+- id: doi:10.1016/j.jtbi.2020.110158
+  title: Separate seasons of infection and reproduction can lead to multi-year population cycles
+  authors:
+  - F.M. Hilker
+  - T.A. Sun
+  - L.J.S. Allen
+  - F.M. Hamelin
+  publisher: Journal of Theoretical Biology
+  date: '2020-03-01'
+  link: https://doi.org/10.1016/j.jtbi.2020.110158
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S002251932030014X-gr1_lrg.jpg
+  tags:
+  - epidemiology
+  - semi-discrete system
+
+- id: doi:10.1098/rsif.2020.0566
+  title: Forecasting resilience profiles of the run-up to regime shifts in nearly-one-dimensional systems
+  authors:
+  - Matthew W. Adamson
+  - Jonathan H. P. Dawes
+  - Alan Hastings
+  - Frank M. Hilker
+  publisher: Journal of The Royal Society Interface
+  date: '2020-09-01'
+  link: https://doi.org/10.1098/rsif.2020.0566
+  orcid: 0000-0001-5470-8889
+  file: orcid.yaml
+  type: article
+  image: https://trs.silverchair-cdn.com/trs/content_public/journal/rsif/17/170/10.1098_rsif.2020.0566/4/m_rsif20200566f01.png?Expires=1777400089&Signature=etWR6Fnvz4ooUGF5OfCRDGEEsvwXpc9xeqivIH-V~r7Cx~j-IYeWu-2Pa7BekTB~WIKjcaAow5byBtWtwGMj~16kVLsvjZrM0mzESpo3n7ZHJUV22DAJ4Lu4yU2EB410ksQgBbN4Zk8KW7vYiJJYoqJ70uNy2Ca~mO-bM8pvcbMCDmtPz060rIoZMypnX3DbuH~crHo4destz8cJ4YklfD~Exu~6P0acBFbFbbtyvS7PMz4nJLJ2u9adYSAaS6cQRhPBLBamQc9AQfviPDEJzcTfwnInuOZVFt1QmRHvmJ8UrEdC7v-8DYT8GBopRppZcttRgs49TjhnZZHm-WhWfQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - early-warning signal
+  - regime shift
+  - global bifurcation
+
+- id: doi:10.1137/19M1251023
+  title: Degenerate period adding bifurcation structure of one-dimensional bimodal piecewise linear maps
+  authors:
+  - Juan Segura
+  - Frank M. Hilker
+  - Daniel Franco
+  publisher: SIAM Journal on Applied Mathematics
+  date: '2020-01-01'
+  link: https://doi.org/10.1137/19M1251023
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://epubs.siam.org/cms/10.1137/smjmap.86.2/asset/17efe49a-7717-fe49-4771-efe49a47717e/cover.jpg
+  tags:
+  - harvesting
+  - dynamical system
+  - non-smooth
+
+- id: doi:10.1007/s11538-020-00750-x
+  title: Multiple attractors and long transients in spatially structured populations with an Allee effect
+  authors:
+  - Irina Vortkamp
+  - Sebastian J. Schreiber
+  - Alan Hastings
+  - Frank M. Hilker
+  publisher: Bulletin of Mathematical Biology
+  date: '2020-06-01'
+  link: https://doi.org/10.1007/s11538-020-00750-x
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-020-00750-x/MediaObjects/11538_2020_750_Fig3_HTML.png?
+  tags:
+  - Allee effect
+  - long transients
+  - spatial ecology
+  - metapopulation
+  - fragmentation
+
+- id: doi:10.3390/v11121153
+  title: Modelling vector transmission and epidemiology of co-infecting plant viruses
+  authors:
+  - Linda J. S. Allen
+  - Vrushali A. Bokil
+  - Nik J. Cunniffe
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  - Frank M. Hilker
+  - Michael J. Jeger
+  publisher: Viruses
+  date: '2019-12-13'
+  link: https://doi.org/10.3390/v11121153
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://pub.mdpi-res.com/viruses/viruses-11-01153/article_deploy/html/images/viruses-11-01153-g001.png?1577736115
+  tags:
+  - epidemiology
+  - plant disease
+  - vector transmission
+  - co-infection
+
+- id: doi:10.1016/j.tpb.2019.09.012
+  title: "Enhancing population stability with combined adaptive limiter control and finding the optimal harvesting\u2013restocking balance"
+  authors:
+  - Juan Segura
+  - Frank M. Hilker
+  - Daniel Franco
+  publisher: Theoretical Population Biology
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.tpb.2019.09.012
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0040580919301777-gr2_lrg.jpg
+  tags:
+  - harvesting
+  - augmentation
+  - outbreak
+  - stabilization
+
+- id: doi:10.1016/j.ecocom.2019.100776
+  title: 'Fish disease dynamics in changing rivers: Salmonid Ceratomyxosis in the Klamath River'
+  authors:
+  - Vanessa Schakau
+  - Frank M. Hilker
+  - Mark A. Lewis
+  publisher: Ecological Complexity
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.ecocom.2019.100776
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X19300364-gr3_lrg.jpg
+  tags:
+  - epidemiology
+  - river ecosystem
+  - climate change
+  - dam removal
+  - spatial ecology
+  - traveling wave
+
+- id: doi:10.1101/618900
+  title: Co-infections by non-interacting pathogens are not independent &amp; require new tests of interaction
+  authors:
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  - Linda J.S. Allen
+  - Vrushali A. Bokil
+  - Louis J. Gross
+  - Frank M. Hilker
+  - Michael J. Jeger
+  - Carrie A. Manore
+  - Alison G. Power
+  - "Megan A. R\xFAa"
+  - Nik J. Cunniffe
+  publisher: openRxiv
+  date: '2019-04-26'
+  link: https://doi.org/10.1101/618900
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3000551.g003
+  tags:
+  - epidemiology
+  - co-infection
+
+- id: doi:10.1007/s00285-019-01415-7
+  title: Proportional threshold harvesting in discrete-time population models
+  authors:
+  - Frank M. Hilker
+  - Eduardo Liz
+  publisher: Journal of Mathematical Biology
+  date: '2019-09-03'
+  link: https://doi.org/10.1007/s00285-019-01415-7
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-019-01415-7/MediaObjects/285_2019_1415_Fig2_HTML.png?
+  tags:
+  - harvesting
+
+- id: doi:10.1016/j.tpb.2019.07.016
+  title: Eco-epidemiological interactions with predator interference and infection
+  authors:
+  - Iulia Martina Bulai
+  - Frank M. Hilker
+  publisher: Theoretical Population Biology
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.tpb.2019.07.016
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0040580919300279-gr5_lrg.jpg
+  tags:
+  - eco-epidemiology
+  - functional response
+  - consumer-resource system
+
+- id: doi:10.1007/s11538-018-00546-0
+  title: Preytaxis and travelling waves in an eco-epidemiological model
+  authors:
+  - Andrew M. Bate
+  - Frank M. Hilker
+  publisher: Bulletin of Mathematical Biology
+  date: '2018-12-13'
+  link: https://doi.org/10.1007/s11538-018-00546-0
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-018-00546-0/MediaObjects/11538_2018_546_Fig5_HTML.png?
+  tags:
+  - biological invasion
+  - traveling wave
+  - consumer-resource system
+  - eco-epidemiology
+  - spatial ecology
+
+- id: doi:10.1016/j.mbs.2018.12.010
+  title: Hydra effect and paradox of enrichment in discrete-time predator-prey models
+  authors:
+  - Vinicius Weide
+  - Maria C. Varriale
+  - Frank M. Hilker
+  publisher: Mathematical Biosciences
+  date: '2019-04-01'
+  link: https://doi.org/10.1016/j.mbs.2018.12.010
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0025556418303456-gr2_lrg.jpg
+  tags:
+  - consumer-resource system
+  - hydra effect
+  - discrete-time system
+
+- id: doi:10.1016/j.amc.2017.07.022
+  title: Separatrix reconstruction to identify tipping points in an eco-epidemiological
+    model
+  authors:
+  - Elisa Francomano
+  - Frank M. Hilker
+  - Marta Paliaga
+  - Ezio Venturino
+  publisher: Applied Mathematics and Computation
+  date: '2018-02-01'
+  link: https://doi.org/10.1016/j.amc.2017.07.022
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0096300317304733-gr3_lrg.jpg
+  tags:
+  - basin of attraction
+  - regime shift
+  - eco-epidemiology
+  - Allee effect
+
+- id: doi:10.1007/s11538-017-0325-y
+  title: Diseased social predators
+  authors:
+  - Frank M. Hilker
+  - Marta Paliaga
+  - Ezio Venturino
+  publisher: Bulletin of Mathematical Biology
+  date: '2017-08-09'
+  link: https://doi.org/10.1007/s11538-017-0325-y
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11538-017-0325-y/MediaObjects/11538_2017_325_Fig6_HTML.gif?as=webp
+  tags:
+  - eco-epidemiology
+  - functional response
+  - cooperative predators
+
+- id: doi:10.1016/j.virusres.2017.04.011
+  title: "The evolution of parasitic and mutualistic plant\u2013virus symbioses through transmission-virulence trade-offs"
+  authors:
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  - Frank M. Hilker
+  - T. Anthony Sun
+  - Michael J. Jeger
+  - M. Reza Hajimorad
+  - Linda J.S. Allen
+  - Holly R. Prendeville
+  publisher: Virus Research
+  date: '2017-09-01'
+  link: https://doi.org/10.1016/j.virusres.2017.04.011
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168170216308292-gr3_lrg.jpg
+  tags:
+  - semi-discrete model
+  - epidemiology
+  - plant disease
+
+- id: doi:10.1094/PHYTO-03-17-0080-FI
+  title: Modeling virus coinfection to inform management of Maize Lethal Necrosis in Kenya
+  authors:
+  - Frank M. Hilker
+  - Linda J. S. Allen
+  - Vrushali A. Bokil
+  - Cheryl J. Briggs
+  - Zhilan Feng
+  - Karen A. Garrett
+  - Louis J. Gross
+  - "Fr\xE9d\xE9ric M. Hamelin"
+  - Michael J. Jeger
+  - Carrie A. Manore
+  - Alison G. Power
+  - Margaret G. Redinbaugh
+  - "Megan A. R\xFAa"
+  - Nik J. Cunniffe
+  publisher: "Phytopathology"
+  date: '2017-10-01'
+  link: https://doi.org/10.1094/PHYTO-03-17-0080-FI
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://apsjournals.apsnet.org/cms/10.1094/PHYTO-03-17-0080-FI/asset/images/large/phyto-03-17-0080-fi_f1-1504944310054.jpeg
+  tags:
+  - co-infection
+  - plant disease
+
+- id: doi:10.1111/ele.12789
+  title: 'Moving forward in circles: challenges and opportunities in modelling population cycles'
+  authors:
+  - "Fr\xE9d\xE9ric Barraquand"
+  - Stilianos Louca
+  - Karen C. Abbott
+  - Christina A. Cobbold
+  - Flora Cordoleani
+  - Donald L. DeAngelis
+  - Bret D. Elderd
+  - Jeremy W. Fox
+  - Priscilla Greenwood
+  - Frank M. Hilker
+  - Dennis L. Murray
+  - Christopher R. Stieha
+  - Rachel A. Taylor
+  - Kelsey Vitense
+  - Gail S.K. Wolkowicz
+  - Rebecca C. Tyson
+  publisher: Ecology Letters
+  date: '2017-06-20'
+  link: https://doi.org/10.1111/ele.12789
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://onlinelibrary.wiley.com/cms/asset/01d4e027-7596-4b00-9e24-5e487fceb6b7/ele12789-fig-0001-m.jpg
+  tags:
+  - consumer-resource system
+  - population cycle
+  - chaos
+  - functional response
+  - harvesting
+  - stochastic dynamics
+
+- id: doi:10.1016/j.jtbi.2017.02.002
+  title: Hunting cooperation and Allee effects in predators
+  authors:
+  - "Micka\xEBl Teixeira Alves"
+  - Frank M. Hilker
+  publisher: Journal of Theoretical Biology
+  date: '2017-04-01'
+  link: https://doi.org/10.1016/j.jtbi.2017.02.002
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519317300577-gr1_lrg.jpg
+  tags:
+  - cooperative predators
+  - functional response
+  - Allee effect
+  - consumer-resource system
+
+- id: doi:10.1371/journal.pone.0170837
+  title: Population control methods in stochastic extinction and outbreak scenarios
+  authors:
+  - Juan Segura
+  - Frank M. Hilker
+  - Daniel Franco
+  publisher: PLoS ONE
+  date: '2017-02-02'
+  link: https://doi.org/10.1371/journal.pone.0170837
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0170837.g007
+  tags:
+  - harvesting
+  - outbreak
+  - Allee effect
+  - stochastic dynamics
+
+- id: doi:10.14658/PUPJ-DRNA-2017-Special_Issue-5
+  title: An efficient method to reconstruct invariant manifolds of saddle points
+  authors:
+  - Elisa Francomano
+  - Frank M. Hilker
+  - Marta Paliaga 
+  publisher: Dolomites Research Notes on Approximation
+  date: '2017-05-26'
+  link: https://doi.org/10.14658/PUPJ-DRNA-2017-Special_Issue-5
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTVfVyV18xjceDPf0KDdqIcEBQTmrZxI7Gg&s
+  tags:
+  - basin of attraction
+  - regime shift
+  - eco-epidemiology
+  - Allee effect
+
+- id: doi:10.1007/s11538-016-0228-3
+  title: "Optimal culling and biocontrol in a predator\u2013prey model"
+  authors:
+  - Eric Numfor
+  - Frank M. Hilker
+  - Suzanne Lenhart
+  publisher: Bulletin of Mathematical Biology
+  date: '2016-10-31'
+  link: https://doi.org/10.1007/s11538-016-0228-3
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-016-0228-3/MediaObjects/11538_2016_228_Fig2_HTML.gif?
+  tags:
+  - optimal control
+  - eco-epidemiology
+  - biocontrol
+
+- id: doi:10.1007/s00285-016-0966-8
+  title: "The Fokker\u2013Planck law of diffusion and pattern formation in heterogeneous environments"
+  authors:
+  - Michael Bengfort
+  - Horst Malchow
+  - Frank M. Hilker
+  publisher: Journal of Mathematical Biology
+  date: '2016-01-23'
+  link: https://doi.org/10.1007/s00285-016-0966-8
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-016-0966-8/MediaObjects/285_2016_966_Fig6_HTML.gif?
+  tags:
+  - pattern formation
+  - spatial ecology
+  - traveling wave
+
+- id: doi:10.1016/j.jtbi.2016.01.039
+  title: Adaptive threshold harvesting and the suppression of transients
+  authors:
+  - Juan Segura
+  - Frank M. Hilker
+  - Daniel Franco
+  publisher: Journal of Theoretical Biology
+  date: '2016-04-01'
+  link: https://doi.org/10.1016/j.jtbi.2016.01.039
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519316000795-gr1_lrg.jpg
+  tags:
+  - long transients
+  - harvesting
+  - stabilization
+  - Allee effect
+  - lattice effect
+  - stochastic dynamics
+
+- id: doi:10.1063/1.4965353
+  title: On basins of attraction for a predator-prey model via meshless approximation
+  authors:
+  - Elisa Francomano
+  - Frank M. Hilker
+  - Marta Paliaga
+  - Ezio Venturino
+  publisher: AIP Conference Proceedings
+  date: '2016-01-01'
+  link: https://doi.org/10.1063/1.4965353
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: misc
+  image: https://aipp.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/acp/acp_cover-357135284.jpg
+  tags:
+  - basin of attraction
+  - regime shift
+  - eco-epidemiology
+  - Allee effect
+
+- id: doi:10.1016/j.ecocom.2014.10.003
+  title: Plankton blooms and patchiness generated by heterogeneous physical environments
+  authors:
+  - Michael Bengfort
+  - Ulrike Feudel
+  - Frank M. Hilker
+  - Horst Malchow
+  publisher: Ecological Complexity
+  date: '2014-12-01'
+  link: https://doi.org/10.1016/j.ecocom.2014.10.003
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X14001032-gr6.jpg
+  tags:
+  - pattern formation
+  - consumer-resource system
+  - spatial ecology
+
+- id: doi:10.1007/s11538-014-9957-3
+  title: Seasonal invasion dynamics in a spatially heterogeneous river with fluctuating flows
+  authors:
+  - Yu Jin
+  - Frank M. Hilker
+  - Peter M. Steffler
+  - Mark A. Lewis
+  publisher: Bulletin of Mathematical Biology
+  date: '2014-06-03'
+  link: https://doi.org/0.1007/s11538-014-9957-3
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-014-9957-3/MediaObjects/11538_2014_9957_Fig8_HTML.gif?
+  tags:
+  - river ecosystem
+  - spatial ecology
+
+- id: doi:10.1016/j.ecocom.2013.06.002
+  title: Disease-induced modification of prey competition in eco-epidemiological models
+  authors:
+  - Michael Sieber
+  - Horst Malchow
+  - Frank M. Hilker
+  publisher: Ecological Complexity
+  date: '2014-06-01'
+  link: https://doi.org/10.1016/j.ecocom.2013.06.002
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X13000500-gr1.jpg
+  tags:
+  - eco-epidemiology
+
+- id: doi:10.1137/13092277X
+  title: 'Stabilizing populations with adaptive limiters: Prospects and fallacies'
+  authors:
+  - Daniel Franco
+  - Frank M. Hilker
+  publisher: SIAM Journal on Applied Dynamical Systems
+  date: '2014-01-01'
+  link: https://doi.org/10.1137/13092277X
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://epubs.siam.org/cms/10.1137/sjaday.25.1/asset/17efe4b1-1b17-fe4b-81b1-efe4b181b17e/cover.jpg
+  tags:
+  - harvesting
+  - stabilization
+
+- id: doi:10.1007/s11538-013-9911-9
+  title: "A mathematical biologist\u2019s guide to absolute and convective instability"
+  authors:
+  - Jonathan A. Sherratt
+  - Ayawoa S. Dagbovie
+  - Frank M. Hilker
+  publisher: Bulletin of Mathematical Biology
+  date: '2013-11-22'
+  link: https://doi.org/10.1007/s11538-013-9911-9
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-013-9911-9/MediaObjects/11538_2013_9911_Fig2_HTML.gif?
+  tags:
+  - pattern formation
+  - river ecosystem
+  - spatial ecology
+
+- id: doi:10.1016/j.mbs.2013.12.003
+  title: Harvest timing and its population dynamic consequences in a discrete single-species model
+  authors:
+  - "Bego\xF1a Cid"
+  - Frank M. Hilker
+  - Eduardo Liz
+  publisher: Mathematical Biosciences
+  date: '2014-02-01'
+  link: https://doi.org/10.1016/j.mbs.2013.12.003
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0025556413002745-gr3.jpg
+  tags:
+  - harvesting
+  - intervention timing
+  - discrete-time system
+  - Allee effect
+
+- id: doi:10.1007/978-3-662-44140-4_3
+  title: Harvesting and dynamics in some one-dimensional population models
+  authors:
+  - Eduardo Liz
+  - Frank M. Hilker
+  publisher: Springer Proceedings in Mathematics &amp; Statistics
+  date: '2014-01-01'
+  link: https://doi.org/10.1007/978-3-662-44140-4_3
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-662-44140-4_3/MediaObjects/311610_1_En_3_Fig10_HTML.gif?
+  tags:
+  - harvesting
+  - discrete-time system
+
+- id: doi:10.1016/j.jtbi.2013.08.018
+  title: Adaptive limiter control of unimodal population maps
+  authors:
+  - Daniel Franco
+  - Frank M. Hilker
+  publisher: Journal of Theoretical Biology
+  date: '2013-11-01'
+  link: https://doi.org/10.1016/j.jtbi.2013.08.018
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519313003925-gr3.jpg
+  tags:
+  - harvesting
+  - stabilization
+  - discrete-time system
+
+- id: doi:10.1007/s11538-013-9880-z
+  title: Complex dynamics in an eco-epidemiological model
+  authors:
+  - Andrew M. Bate
+  - Frank M. Hilker
+  publisher: Bulletin of Mathematical Biology
+  date: '2013-09-18'
+  link: https://doi.org/10.1007/s11538-013-9880-z
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-013-9880-z/MediaObjects/11538_2013_9880_Fig6_HTML.gif?
+  tags:
+  - eco-epidemiology
+
+- id: doi:10.1007/s12080-013-0200-x
+  title: Disease in group-defending prey can benefit predators
+  authors:
+  - Andrew M. Bate
+  - Frank M. Hilker
+  publisher: Theoretical Ecology
+  date: '2013-09-29'
+  link: https://doi.org/10.1007/s12080-013-0200-x
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-013-0200-x/MediaObjects/12080_2013_200_Fig1_HTML.gif?
+  tags:
+  - eco-epidemiology
+
+- id: doi:10.1016/j.ecocom.2013.02.002
+  title: "Harvesting, census timing and \u201Chidden\u201D hydra effects"
+  authors:
+  - Frank M. Hilker
+  - Eduardo Liz
+  publisher: Ecological Complexity
+  date: '2013-06-01'
+  link: https://doi.org/10.1016/j.ecocom.2013.02.002
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X13000251-gr1.jpg
+  tags:
+  - harvesting
+  - discrete-time system
+  - hydra effect
+
+- id: doi:10.1016/j.jtbi.2012.09.013
+  title: "Predator\u2013prey oscillations can shift when diseases become endemic"
+  authors:
+  - Andrew M. Bate
+  - Frank M. Hilker
+  publisher: Journal of Theoretical Biology
+  date: '2013-01-01'
+  link: https://doi.org/10.1016/j.jtbi.2012.09.013
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519312004912-gr1.jpg
+  tags:
+  - eco-epidemiology
+  - population cycle
+
+- id: doi:10.1890/11-1814.1
+  title: Why are metapopulations so rare?
+  authors:
+  - Emanuel A. Fronhofer
+  - Alexander Kubisch
+  - Frank M. Hilker
+  - Thomas Hovestadt
+  - Hans Joachim Poethke
+  publisher: Ecology
+  date: '2012-08-01'
+  link: https://doi.org/10.1890/11-1814.1
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://esajournals.onlinelibrary.wiley.com/cms/asset/cdc933cf-4a6c-4992-bb26-8696b32d0547/ecy20129381967-fig-0004-m.gif
+  tags:
+  - metapopulation
+  - spatial ecology
+  - individual-based model
+
+- id: doi:10.1525/9780520951785-114
+  title: SIR Models
+  authors:
+  - Lewi Stone
+  - Guy Katriel
+  - Frank M. Hilker
+  publisher: Encyclopedia of Theoretical Ecology
+  date: '2019-12-31'
+  link: https://doi.org/10.1525/9780520951785-114
+  plugin: sources.py
+  file: sources.yaml
+  type: misc
+  image: https://www.degruyterbrill.com/document/cover/isbn/9780520951785/product_pages
+  tags:
+  - epidemiology
+  - eco-epidemiology
+
+- id: doi:10.1111/j.1461-0248.2011.01727.x
+  title: "Directional biases and resource\u2010dependence in dispersal generate spatial patterning in a consumer\u2013producer model"
+  authors:
+  - Kurt E. Anderson
+  - Frank M. Hilker
+  - Roger M. Nisbet
+  publisher: Ecology Letters
+  date: '2012-01-17'
+  link: https://doi.org/10.1111/j.1461-0248.2011.01727.x
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://onlinelibrary.wiley.com/cms/asset/515c4f27-ffb6-4fd8-b9c0-99f0201ee77b/ele_1727_f1.gif
+  tags:
+  - river ecosystem
+  - consumer-resource system
+  - pattern formation
+  - spatial ecology
+
+- id: doi:10.1007/s00285-011-0416-6
+  title: "The hydra effect in predator\u2013prey models"
+  authors:
+  - Michael Sieber
+  - Frank M. Hilker
+  publisher: Journal of Mathematical Biology
+  date: '2011-03-18'
+  link: https://doi.org/10.1007/s00285-011-0416-6
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/285?as=webp
+  tags:
+  - hydra effect
+  - consumer-resource system
+
+- id: doi:10.1016/j.jtbi.2011.12.005
+  title: 'Rabbits protecting birds: Hypopredation and limitations of hyperpredation'
+  authors:
+  - Andrew M. Bate
+  - Frank M. Hilker
+  publisher: Journal of Theoretical Biology
+  date: '2012-03-01'
+  link: https://doi.org/10.1016/j.jtbi.2011.12.005
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S002251931100614X-gr1.jpg
+  tags:
+  - population ecology
+
+- id: doi:10.1016/j.physleta.2011.08.066
+  title: Target-oriented chaos control
+  authors:
+  - Justine Dattani
+  - Jack C.H. Blake
+  - Frank M. Hilker
+  publisher: Physics Letters A
+  date: '2011-10-01'
+  link: https://doi.org/10.1016/j.physleta.2011.08.066
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0375960111011194-gr001.jpg
+  tags:
+  - chaos
+
+- id: doi:10.1111/j.1365-2656.2010.01788.x
+  title: 'Prey, predators, parasites: intraguild predation or simpler community modules in disguise?'
+  authors:
+  - Michael Sieber
+  - Frank M. Hilker
+  publisher: Journal of Animal Ecology
+  date: '2010-12-23'
+  link: https://doi.org/10.1111/j.1365-2656.2010.01788.x
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/4dfc2f2d-fe7d-41bc-b9d8-e6cd50afc99a/jane_1788_f1.gif
+  tags:
+  - population ecology
+  - eco-epidemiology
+  - long transients
+  - basin of attraction
+  - chaos
+
+- id: doi:10.1080/17513758.2010.487159
+  title: A spatially stochastic epidemic model with partial immunization shows in mean field approximation the reinfection threshold
+  authors:
+  - Nico Stollenwerk
+  - Sander van Noort
+  - "Jos\xE9 Martins"
+  - "Ma\xEDra Aguiar"
+  - Frank Hilker
+  - Alberto Pinto
+  - Gabriela Gomes
+  publisher: Journal of Biological Dynamics
+  date: '2010-11-01'
+  link: https://doi.org/10.1080/17513758.2010.487159
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.tandfonline.com/cms/asset/40136b24-e70f-460c-9bf5-4330c3939d37/tjbd_a_487159_o_f0001g.jpg
+  tags:
+  - epidemiology
+  - reinfection
+
+- id: doi:10.1007/s12080-009-0062-4
+  title: "Predator\u2013prey systems in streams and rivers"
+  authors:
+  - Frank M. Hilker
+  - Mark A. Lewis
+  publisher: Theoretical Ecology
+  date: '2009-11-21'
+  link: https://doi.org/10.1007/s12080-009-0062-4
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-009-0062-4/MediaObjects/12080_2009_62_Fig1_HTML.gif?
+  tags:
+  - river ecosystem
+  - traveling wave
+  - spatial ecology
+  - consumer-resource system
+
+- id: doi:10.1007/s11538-009-9454-2
+  title: "Modelling disease introduction as biological control of invasive predators to preserve endangered prey"
+  authors:
+  - Nuno M. Oliveira
+  - Frank M. Hilker
+  publisher: Bulletin of Mathematical Biology
+  date: '2009-09-29'
+  link: https://doi.org/10.1007/s11538-009-9454-2
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  type: article
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4hdxGXidxgQZn-2A_qWvnn1c6R7ZHNnfsA&s
+  tags:
+  - eco-epidemiology
+  - biocontrol
+
+- id: doi:10.1080/17513750903026429
+  title: 'Population collapse to extinction: the catastrophic combination of parasitism and Allee effect'
+  authors:
+  - Frank M. Hilker
+  publisher: Journal of Biological Dynamics
+  date: '2010-01-01'
+  link: https://doi.org/10.1080/17513750903026429
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.tandfonline.com/cms/asset/388c98be-8966-4804-9ea2-b43537aa8bfb/tjbd_a_402815_o_f0006g.jpg
+  tags:
+  - eco-epidemiology
+  - epidemiology
+  - Allee effect
+
+- id: doi:10.1142/9789814271820_0003
+  title: Epidemiological models with demographic Allee effect
+  authors:
+  - Frank M. Hilker
+  publisher: BIOMAT 2008
+  date: '2009-07-01'
+  link: https://doi.org/10.1142/9789814271820_0003
+  plugin: sources.py
+  file: sources.yaml
+  type: misc
+  image: https://www.worldscientific.com/cms/10.1142/7272/asset/18ee7f59-bb18-e7f5-fbb1-ee7f59fbb18e/7272.cover.jpg
+  tags:
+  - eco-epidemiology
+  - epidemiology
+  - Allee effect
+
+- id: doi:10.1086/593357
+  title: "The Allee effect and infectious diseases: Extinction, multistability, and the (dis\u2010)appearance of oscillations"
+  authors:
+  - "Frank\_M. Hilker"
+  - Michel Langlais
+  - Horst Malchow
+  publisher: The American Naturalist
+  date: '2009-01-01'
+  link: https://doi.org/10.1086/593357
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.journals.uchicago.edu/cms/10.1086/593357/asset/images/medium/fg3.gif
+  tags:
+  - eco-epidemiology
+  - epidemiology
+  - Allee effect
+
+- id: doi:10.1016/j.jtbi.2008.08.018
+  title: "Disease-induced stabilization of predator\u2013prey oscillations"
+  authors:
+  - Frank M. Hilker
+  - Kirsten Schmitz
+  publisher: Journal of Theoretical Biology
+  date: '2008-12-01'
+  link: https://doi.org/10.1016/j.jtbi.2008.08.018
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519308004268-gr3.jpg
+  tags:
+  - eco-epidemiology
+  - biocontrol
+
+- id: doi:10.1007/978-3-7643-8591-0_1
+  title: 'Mathematical models of pattern formation in planktonic predation-diffusion systems: a review'
+  authors:
+  - Horst Malchow
+  - Frank M. Hilker
+  - Ivo Siekmann
+  - Sergei V. Petrovskii
+  - Alexander B. Medvinsky
+  publisher: Aspects of Mathematical Modelling
+  date: '2008-01-01'
+  link: https://doi.org/10.1007/978-3-7643-8591-0_1
+  orcid: 0000-0001-5470-8889
+  file: orcid.yaml
+  type: misc
+  image: https://media.springernature.com/w158/springer-static/cover/book/978-3-7643-8591-0.jpg?as=webp
+  tags:
+  - pattern formation
+  - spatial ecology
+
+- id: doi:10.1016/j.jtbi.2007.06.005
+  title: Implications of partial immunity on the prospects for tuberculosis control by post-exposure interventions
+  authors:
+  - M. Gabriela M. Gomes
+  - Paula Rodrigues
+  - Frank M. Hilker
+  - Natalia B. Mantilla-Beniers
+  - Marion Muehlen
+  - Ana Cristina Paulo
+  - Graham F. Medley
+  publisher: Journal of Theoretical Biology
+  date: '2007-10-01'
+  link: https://doi.org/10.1016/j.jtbi.2007.06.005
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022519307002846-gr6.jpg
+  tags:
+  - epidemiology
+  - re-infection
+
+- id: doi:10.2307/4541077
+  title: Preventing extinction and outbreaks in chaotic populations
+  authors:
+  - "Frank\_M. Hilker"
+  - "Frank\_H. Westerhoff"
+  publisher: The American Naturalist
+  date: '2007-08-01'
+  link: https://doi.org/10.2307/4541077
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://www.journals.uchicago.edu/cms/10.1086/an.2026.207.issue-4/asset/1701761b-6917-1761-c691-01761bc69170/cover.gif
+  tags:
+  - chaos
+  - stabilization
+
+- id: doi:10.1016/j.mbs.2005.10.003
+  title: A diffusive SI model with Allee effect and application to FIV
+  authors:
+  - Frank M. Hilker
+  - Michel Langlais
+  - Sergei V. Petrovskii
+  - Horst Malchow
+  publisher: Mathematical Biosciences
+  date: '2007-03-01'
+  link: https://doi.org/10.1016/j.mbs.2005.10.003
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0025556405002038-gr6.jpg
+  tags:
+  - epidemiology
+  - traveling wave
+  - wave reversal
+  - eco-epidemiology
+  - Allee effect
+
+- id: doi:10.1016/j.physleta.2006.10.035
+  title: Triggering crashes in chaotic dynamics
+  authors:
+  - Frank M. Hilker
+  - Frank H. Westerhoff
+  publisher: Physics Letters A
+  date: '2007-03-01'
+  link: https://doi.org/10.1016/j.physleta.2006.10.035
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0375960106016185-gr002.gif
+  tags:
+  - chaos
+  - outbreak
+
+- id: doi:10.1016/j.ecolmodel.2005.06.011
+  title: Parameterizing, evaluating and comparing metapopulation models with data from individual-based simulations
+  authors:
+  - Frank M. Hilker
+  - Martin Hinsch
+  - Hans Joachim Poethke
+  publisher: Ecological Modelling
+  date: '2006-12-01'
+  link: https://doi.org/10.1016/j.ecolmodel.2005.06.011
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304380006002912-gr1.jpg
+  tags:
+  - metapopulation
+  - individual-based model
+
+- id: doi:10.1016/j.ecocom.2006.03.002
+  title: "Oscillations and waves in a virally infected plankton system. Part II: Transition from lysogeny to lysis"
+  authors:
+  - Frank M. Hilker
+  - Horst Malchow
+  - Michel Langlais
+  - Sergei V. Petrovskii
+  publisher: Ecological Complexity
+  date: '2006-09-01'
+  link: https://doi.org/10.1016/j.ecocom.2006.03.002
+  plugin: sources.py
+  file: sources.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X06000444-gr5.jpg
+  tags:
+  - pattern formation
+  - eco-epidemiology
+
+- id: doi:10.1103/PhysRevE.73.052901
+  title: Paradox of simple limiter control
+  authors:
+  - Frank Hilker
+  - Frank Westerhoff
+  publisher: Physical Review E
+  date: '2006-05-01'
+  link: https://doi.org/10.1103/PhysRevE.73.052901
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://journals.aps.org/pre/article/10.1103/PhysRevE.73.052901/figures/2/medium
+  tags:
+  - chaos
+
+- id: doi:10.1080/08898480600788568
+  title: Strange periodic attractors in a prey-predator system with infected prey
+  authors:
+  - Frank M. Hilker
+  - Horst Malchow
+  publisher: Mathematical Population Studies
+  date: '2006-09-01'
+  link: https://doi.org/10.1080/08898480600788568
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoXb5ssGAhoDeCpIHCloF6ZC2GYJuAz5veg&s
+  tags:
+  - eco-epidemiology
+  - dynamical system
+
+- id: doi:10.1016/j.mcm.2004.10.025
+  title: Spatiotemporal patterns in an excitable plankton system with lysogenic viral infection
+  authors:
+  - H. Malchow
+  - F.M. Hilker
+  - R.R. Sarkar
+  - K. Brauer
+  publisher: Mathematical and Computer Modelling
+  date: '2005-11-01'
+  link: https://doi.org/10.1016/j.mcm.2004.10.025
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoXb5ssGAhoDeCpIHCloF6ZC2GYJuAz5veg&s
+  tags:
+  - pattern formation
+  - eco-epidemiology
+
+- id: doi:10.1007/s10530-005-5217-7
+  title: Patterns of patchy spread in deterministic and stochastic models of biological invasion and biological control
+  authors:
+  - Sergei V. Petrovskii
+  - Horst Malchow
+  - Frank M. Hilker
+  - Ezio Venturino
+  publisher: Biological Invasions
+  date: '2005-09-01'
+  link: https://doi.org/10.1007/s10530-005-5217-7
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhxATPY6iu5qIsh0w8GdzuaizFi9hisvbEA&s
+  tags:
+  - pattern formation
+  - biological invasion
+
+- id: doi:10.1007/s10530-005-5215-9
+  title: Pathogens can slow down or reverse invasion fronts of their hosts
+  authors:
+  - Frank M. Hilker
+  - Mark A. Lewis
+  - Hiromi Seno
+  - Michel Langlais
+  - Horst Malchow
+  publisher: Biological Invasions
+  date: '2005-09-01'
+  link: https://doi.org/10.1007/s10530-005-5215-9
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/10530?as=webp
+  tags:
+  - wave reversal
+  - traveling wave
+  - biological invasion
+  - Allee effect
+  - epidemiology
+
+- id: doi:10.1038/nature03627
+  title: Experimental demonstration of chaos in a microbial food web
+  authors:
+  - Lutz Becks
+  - Frank M. Hilker
+  - Horst Malchow
+  - "Klaus J\xFCrgens"
+  - Hartmut Arndt
+  publisher: Nature
+  date: '2005-06-01'
+  link: https://doi.org/10.1038/nature03627
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  type: article
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature03627/MediaObjects/41586_2005_Article_BFnature03627_Fig1_HTML.jpg?
+  tags:
+  - chaos
+  - lab experiment
+  - population dynamics
+  - chemostat
+
+- id: doi:10.1016/j.ecocom.2004.03.002
+  title: 'Oscillations and waves in a virally infected plankton system. Part I: The lysogenic stage'
+  authors:
+  - Horst Malchow
+  - Frank M. Hilker
+  - Sergei V. Petrovskii
+  - Klaus Brauer
+  publisher: Ecological Complexity
+  date: '2004-09-01'
+  link: https://doi.org/10.1016/j.ecocom.2004.03.002
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1476945X04000339-gr4.jpg
+  tags:
+  - pattern formation
+  - eco-epidemiology
+
+- id: doi:10.3934/dcdsb.2004.4.705
+  title: Noise and productivity dependence of spatiotemporal pattern formation in a prey-predator system
+  publisher: Discrete and Continuous Dynamical Systems - Series B
+  date: '2004-01-01'
+  link: https://doi.org/10.3934/dcdsb.2004.4.705
+  orcid: 0000-0001-5470-8889
+  plugin: orcid.py
+  file: orcid.yaml
+  type: article
+  image: https://data.aimsciences.org//aimsmath-upload/journal/DCDS-B/cover_2023517149482.jpg
+  tags:
+  - pattern formation
+  - eco-epidemiology
+
+
+
+
+
+
+

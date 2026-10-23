@@ -1,0 +1,81 @@
+- title: Early-warning signals and critical transitions
+  subtitle: a subtitle
+  group: featured
+  image: images/research/tipping_lake_EWS.jpg
+  link: publications/?search="tag:regime shift"
+  description: In the natural world, slowly changing conditions can cause sudden irreversible changes with severe consequences, such as extinctions, eutrophication events and climate shifts. Early-warning signals aim at indicating impending such critical transitions.
+  repo: greenelab/lab-website-template
+  tags:
+    - regime shift
+    - early-warning signal
+
+- title: Social-ecological systems
+  subtitle: Disentangling interwoven feedbacks
+  group: featured
+  image: images/research/production_possibility_frontier.png
+  link: publications/?search="tag:social-ecological systems"
+  description: Natural systems are increasingly affected by mankind. The mutual feedbacks between socioeconomic and ecological dynamics are important for understanding and managing such systems.
+  repo: 
+  tags:
+    - coupled human-environment systems
+    - bioeconomics
+    - ecological economics
+
+- title: Harvest strategies
+  subtitle: Exploiting and protecting biological renewable resources
+  image: images/research/chaos_control_no-text.png
+  link: publications/?search="tag:harvesting"
+  description: Harvesting is an integral part of managing ecosystems, e.g. for exploitation, pest control, roguing, or weed removal. What are sustainable strategies to maintain environmental and economic health?
+  repo: 
+  tags:
+    - harvesting
+    - chaos control
+
+- title: Eco-epidemiology
+  subtitle: A role for parasites
+  image: images/research/cats-birds-fiv.png
+  link: publications/?search="tag:eco-epidemiology"
+  description: Ecological interactions between competitors, predators, and their prey are viewed as the foundation of community structure. Parasites are increasingly recognized as an important player influencing species interactions and having beneficial or detrimental effects on biodiversity.
+  repo: 
+  tags:
+    - parasite-mediated
+    - Allee effect
+
+- title: Biological invasions and control
+  subtitle: Spread rates, patterns, and impacts
+  image: images/research/infection-pulse-colour-no_text.jpg
+  link: publications/?search="tag:biological invasion"
+  description: The spread of invasive alien species is a major force of change, cuasing ecological problems and substantial economic costs. Models help to understand invasion processes and compare the effectiveness of potential control methods.
+  repo: 
+  tags:
+    - spread rate
+    - wave reversal
+    - traveling front
+    - biological control
+
+- title: Infectious diseases
+  subtitle: Epidemics, pandemics, endemics
+  image: images/research/infectious_diseases_compartments_coinfection.png
+  link: publications/?search="tag:epidemiology"
+  description: Modeling the dynamics of infectious diseases in animals, plants, and humans.
+  repo: 
+  tags:
+    - co-infection
+    - maize lethal necrosis
+    - tuberculosis
+    - reinfection
+    - Allee effect
+
+- title: Pattern formation and spatial ecology
+  subtitle: Unraveling the mechanisms behind patterning
+  image: images/research/spiral_waves.gif
+  link: publications/?search="tag:spatio-temporal dynamics"
+  description: The spatial dimension of ecological systems is crucial for transport, dispersal, and migration processes. They can lead to self-organized spatial or spatio-temporal patterns, interact with seasonal forcing, synchronize systems, or impact biodiversity in changing environments.
+  repo: 
+  tags:
+    - river ecosystem
+    - metapopulation
+    - absolute stability
+    - diffusion-induced instability
+    - plankton patchiness
+

@@ -2,17 +2,29 @@
 
 # team member roles
 
+prof:
+  icon: fa-solid fa-person-running
+  text: Professor
+
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-user-graduate
   description: Postdoctoral Researcher
 
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+
+master:
+  icon: fa-solid fa-user
+  description: Master Student
+
+bachelor:
+  icon: fa-regular fa-user
+  description: Bachelor Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -25,6 +37,18 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+secretary:
+  icon: fas fa-folder-open
+  description: Administration
+
+sysadmin:
+  icon: fas fa-desktop
+  description: System administrator
+
+gis:
+  icon: fas fa-globe
+  description: GIS specialist
 
 # general
 
@@ -79,7 +103,7 @@ orcid:
   link: https://orcid.org/$VALUE
 
 google-scholar:
-  icon: fa-brands fa-google
+  icon: fa-brands fa-google-scholar
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
@@ -178,6 +202,11 @@ preprint:
   icon: fa-regular fa-eye
   text: Preprint
   tooltip: Preprint
+
+misc:
+  icon: fa-solid fa-scroll
+  text: Misc
+  tooltip: Misc
 
 unpublished:
   icon: fa-regular fa-eye
