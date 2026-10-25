@@ -15,9 +15,25 @@ nav:
 
 {% include section.html %}
 
-For a thematic selection, go to the [research](../research) page and click the corresponding buttons.
+For a thematic selection, click the corresponding buttons.
 
-{% include section.html %}
+{%
+  include button.html
+  link="publications#journal-articles"
+  text="Jump to journal articles"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="publications#book-chapters-proceedings-and-reports"
+  text="Jump to book chapters, Proceedings, and Misc."
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
 
 {% include search-box.html %}
 

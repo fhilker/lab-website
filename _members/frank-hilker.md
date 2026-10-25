@@ -8,6 +8,8 @@ aliases:
   - F. Hilker
   - F. M. Hilker
   - F Hilker
+  - Frank Hilker
+  - Frank M. Hilker
 links:
   email: frank.hilker@uni-osnabrueck.de
   orcid: 0000-0001-5470-8889
