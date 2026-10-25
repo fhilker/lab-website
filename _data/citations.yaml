@@ -1060,66 +1060,6 @@
   tags:
   - eco-epidemiology
   - population cycle
-<<<<<<< HEAD
-- id: doi:10.1111/j.1461-0248.2011.01727.x
-  title: "Directional biases and resource\u2010dependence in dispersal generate spatial\
-    \ patterning in a consumer\u2013producer model"
-  authors:
-  - Kurt E. Anderson
-  - Frank M. Hilker
-  - Roger M. Nisbet
-  publisher: Ecology Letters
-  date: '2012-01-17'
-  link: https://doi.org/10.1111/j.1461-0248.2011.01727.x
-  orcid: 0000-0001-5470-8889
-  plugin: sources.py
-  file: sources.yaml
-  type: article
-  image: https://onlinelibrary.wiley.com/cms/asset/515c4f27-ffb6-4fd8-b9c0-99f0201ee77b/ele_1727_f1.gif
-  tags:
-  - river ecosystem
-  - consumer-resource system
-  - pattern formation
-  - spatial ecology
-- id: doi:10.1016/j.jtbi.2011.12.005
-  title: 'Rabbits protecting birds: Hypopredation and limitations of hyperpredation'
-  authors:
-  - Andrew M. Bate
-  - Frank M. Hilker
-  publisher: Journal of Theoretical Biology
-  date: '2012-03-01'
-  link: https://doi.org/10.1016/j.jtbi.2011.12.005
-  orcid: 0000-0001-5470-8889
-  plugin: sources.py
-  file: sources.yaml
-  type: article
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S002251931100614X-gr1.jpg
-  tags:
-  - population ecology
-- id: doi:10.1007/s00285-011-0416-6
-  title: "The hydra effect in predator\u2013prey models"
-  authors:
-  - Michael Sieber
-  - Frank M. Hilker
-  publisher: Journal of Mathematical Biology
-  date: '2011-03-18'
-  link: https://doi.org/10.1007/s00285-011-0416-6
-  orcid: 0000-0001-5470-8889
-  plugin: sources.py
-  file: sources.yaml
-  type: article
-  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/285?as=webp
-  tags:
-  - hydra effect
-  - consumer-resource system
-- title: Why are metapopulations so rare?
-  publisher: Ecology
-  date: '2022-05-23'
-  orcid: 0000-0001-5470-8889
-  plugin: orcid.py
-  file: orcid.yaml
-=======
->>>>>>> 052e323 (Sort publications by category and have buttons to jump)
 - id: doi:10.1890/11-1814.1
   title: Why are metapopulations so rare?
   authors:
@@ -1283,12 +1223,6 @@
   - traveling wave
   - spatial ecology
   - consumer-resource system
-<<<<<<< HEAD
-- title: Epidemiological models with demographic Allee effect
-  publisher: 'Biomat 2008: International Symposium on Mathematical and Computational
-    Biology'
-  date: '2022-05-23'
-=======
 - id: doi:10.1007/s11538-009-9454-2
   title: Modelling disease introduction as biological control of invasive predators
     to preserve endangered prey
@@ -1298,7 +1232,6 @@
   publisher: Bulletin of Mathematical Biology
   date: '2009-09-29'
   link: https://doi.org/10.1007/s11538-009-9454-2
->>>>>>> 052e323 (Sort publications by category and have buttons to jump)
   orcid: 0000-0001-5470-8889
   plugin: sources.py
   type: article
@@ -1432,19 +1365,8 @@
   tags:
   - chaos
   - stabilization
-<<<<<<< HEAD
-- title: Preventing extinction and outbreaks in chaotic populations
-  publisher: AMERICAN NATURALIST
-  date: '2022-05-23'
-  orcid: 0000-0001-5470-8889
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1086/518949
-  title: Preventing Extinction and Outbreaks in Chaotic Populations
-=======
 - id: doi:10.1016/j.mbs.2005.10.003
   title: A diffusive SI model with Allee effect and application to FIV
->>>>>>> 052e323 (Sort publications by category and have buttons to jump)
   authors:
   - Frank M. Hilker
   - Michel Langlais
@@ -1628,29 +1550,6 @@
   - population dynamics
   - chemostat
   file: sources.yaml
-<<<<<<< HEAD
-  type: article
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoXb5ssGAhoDeCpIHCloF6ZC2GYJuAz5veg&s
-  tags:
-  - pattern formation
-  - eco-epidemiology
-- title: Noise and productivity dependence of spatiotemporal pattern formation in
-    a prey-predator system
-  publisher: DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS-SERIES B
-  date: '2022-05-23'
-  orcid: 0000-0001-5470-8889
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Noise and productivity dependence of spatiotemporal pattern formation in
-    a prey-predator system
-  publisher: Discrete and Continuous Dynamical Systems - Series B
-  date: '2022-05-25'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-2942657814&partnerID=MN8TOARS
-  orcid: 0000-0001-5470-8889
-  plugin: orcid.py
-  file: orcid.yaml
-=======
->>>>>>> 052e323 (Sort publications by category and have buttons to jump)
 - id: doi:10.1016/j.ecocom.2004.03.002
   title: 'Oscillations and waves in a virally infected plankton system. Part I: The
     lysogenic stage'
