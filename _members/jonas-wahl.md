@@ -6,6 +6,7 @@ description: PhD student
 aliases:
   - J. Wahl
   - J Wahl
+  - Jonas Wahl
 links:
   email: jonas.wahl@uni-osnabrueck.de
 ---

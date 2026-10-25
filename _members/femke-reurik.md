@@ -3,13 +3,15 @@ name: Femke Naemi Reurik
 image: images/photo.jpg
 role: phd
 description: PhD student
+group: alum
 aliases:
   - F. N. Reurik
   - FN Reurik
   - F. Reurik
   - F Reurik
+  - Femke N. Reurik
+  - Femke Naemi Reurik
 links:
-  email: femke.reurik@uni-osnabrueck.de
   orcid: 0000-0002-1567-4388
 ---
 

@@ -6,8 +6,8 @@ group: alum
 aliases:
   - F. Liebaug
   - F Liebaug
-links:
-  email: friedemann.liebaug@uni-osnabrueck.de
+  - Friedemann Liebaug
+links:  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

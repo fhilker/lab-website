@@ -42,7 +42,7 @@ links:
 {% include section.html %}
 
 ## Major fellowships and awards
-
+2022	Rollie Lamberson Research Award for the most outstanding published paper in the area of natural resource modeling in the previous two years
 2017	Bellman Prize for the best paper published in Mathematical Biosciences, 2014-15
 2012	Lord Robert May Prize for the best paper published in Journal of Biological Dynamics, 2010-12
 2006	Alberta Ingenuity Postdoctoral Fellowship

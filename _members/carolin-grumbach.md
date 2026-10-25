@@ -6,6 +6,9 @@ description: PhD student
 aliases:
   - C. Grumbach
   - C Grumbach
+  - Carolin Grumbach
+  - Janna Carolin Grumbach
+  - J. C. Grumbach
 links:
   email: carolin.grumbach@uni-osnabrueck.de
   orcid: 0000-0001-9332-1388

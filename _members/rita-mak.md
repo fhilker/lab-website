@@ -6,6 +6,7 @@ description: PhD student
 aliases:
   - R. Mak
   - R Mak
+  - Rita Mak
 links:
   email: rita.mak@uni-osnabrueck.de
 ---

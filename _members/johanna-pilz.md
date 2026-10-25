@@ -1,11 +1,14 @@
 ---
-name: Sarah Johnson
+name: Johanna Pilz
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: phd
+description: PhD student
+aliases:
+  - J. Pilz
+  - J Pilz
+  - Johanna Pilz
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: johanna.pilz@uni-osnabrueck.de
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

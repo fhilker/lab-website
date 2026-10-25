@@ -7,6 +7,8 @@ aliases:
   - E. J. Walker
   - E. Walker
   - E Walker
+  - Emma Walker
+  - Emma J. Walker
 links:
   email: emma.walker@uni-osnabrueck.de
   home-page: https://emmajwalker.wixsite.com/emmawalker

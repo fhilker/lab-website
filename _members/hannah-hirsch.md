@@ -6,6 +6,7 @@ description: PhD student
 aliases:
   - H. Hirsch
   - H Hirsch
+  - Hannah Hirsch
 links:
   email: hannah.hirsch@uni-osnabrueck.de
 ---

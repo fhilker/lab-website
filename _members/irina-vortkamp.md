@@ -7,6 +7,7 @@ group: alum
 aliases:
   - I. Vortkamp
   - I Vortkamp
+  - Irina Vortkamp
 links:
   orcid: 0000-0002-9051-4536
 ---
