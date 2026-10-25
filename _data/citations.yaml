@@ -1145,7 +1145,7 @@
   - consumer-resource system
 - title: Why are metapopulations so rare?
   publisher: Ecology
-  date: '2022-05-24'
+  date: '2022-05-23'
   orcid: 0000-0001-5470-8889
   plugin: orcid.py
   file: orcid.yaml
@@ -1282,7 +1282,7 @@
 - title: Epidemiological models with demographic Allee effect
   publisher: 'Biomat 2008: International Symposium on Mathematical and Computational
     Biology'
-  date: '2022-05-24'
+  date: '2022-05-23'
   orcid: 0000-0001-5470-8889
   plugin: orcid.py
   file: orcid.yaml
@@ -1382,7 +1382,7 @@
   - stabilization
 - title: Preventing extinction and outbreaks in chaotic populations
   publisher: AMERICAN NATURALIST
-  date: '2022-05-24'
+  date: '2022-05-23'
   orcid: 0000-0001-5470-8889
   plugin: orcid.py
   file: orcid.yaml
@@ -1565,7 +1565,7 @@
 - title: Noise and productivity dependence of spatiotemporal pattern formation in
     a prey-predator system
   publisher: DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS-SERIES B
-  date: '2022-05-24'
+  date: '2022-05-23'
   orcid: 0000-0001-5470-8889
   plugin: orcid.py
   file: orcid.yaml
