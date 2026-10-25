@@ -1,13 +1,15 @@
-- title: Early-warning signals and critical transitions
-  subtitle: a subtitle
+- title: Early-warning signals
+  subtitle: Anticipating critical transitions
   group: featured
   image: images/research/tipping_lake_EWS.jpg
   link: publications/?search="tag:regime shift"
   description: In the natural world, slowly changing conditions can cause sudden irreversible changes with severe consequences, such as extinctions, eutrophication events and climate shifts. Early-warning signals aim at indicating impending such critical transitions.
-  repo: greenelab/lab-website-template
+  tooltip: 
+  repo: 
   tags:
     - regime shift
     - early-warning signal
+  link: publications
 
 - title: Social-ecological systems
   subtitle: Disentangling interwoven feedbacks
