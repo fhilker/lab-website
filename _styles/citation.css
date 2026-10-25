@@ -61,7 +61,7 @@
 }
 
 .citation-publisher {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .citation-description {
@@ -82,6 +82,11 @@
   display: inline-flex;
   justify-content: flex-start;
   margin: 0;
+}
+
+.citation-metrics {
+  align-content: center;
+  margin: 10px 10px;
 }
 
 @container (max-width: 800px) {

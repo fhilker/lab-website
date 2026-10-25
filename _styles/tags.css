@@ -1,5 +1,6 @@
 .tags {
-  display: flex;
+  /*display: flex;*/
+  display: inline-flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
@@ -13,13 +14,16 @@
   margin: 0;
   padding: 5px 10px;
   border-radius: 999px;
-  background: var(--secondary);
-  color: var(--text);
+  /*background: var(--secondary);*/
+  background: var(--msk-teal);
+  /*color: var(--text);*/
+  color: white;
   text-decoration: none;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  transition: background var(--transition), color var(--transition);
+  /*transition: background var(--transition), color var(--transition);*/
+  transition-property: background, color;
 }
 
 .tag:hover {
@@ -28,6 +32,19 @@
 
 .tag[data-active] {
   background: var(--light-gray);
+}
+
+.tag {
+  font-size: 12px;
+  background: #F0F7FF;
+  border: 1px solid var(--primary);
+}
+.tag:hover {
+  background: var(--msk-light-blue);
+}
+
+.tags a {
+  color: var(--primary);
 }
 
 /*# sourceMappingURL=tags.css.map */
