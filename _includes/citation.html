@@ -110,7 +110,7 @@
     {% if include.style == "rich" %}
     <div class="citation-metrics">
       {%- assign doi = citation.id | remove_first: "doi:" -%}
-      <span class="__dimensions_badge_embed__" data-doi="{{ doi }}" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="{{ doi }}" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
       <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ doi }}" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
     </div> 
     {% endif %}
