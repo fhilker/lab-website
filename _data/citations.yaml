@@ -12,7 +12,7 @@
   orcid: 0000-0001-5470-8889
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-024-00597-1/MediaObjects/12080_2024_597_Fig5_HTML.png?
+  image: publications/images/Allee pits in metapopulations.png
   tags:
   - Allee effect
   - metapopulation
@@ -114,7 +114,8 @@
   date: '2023-09-21'
   link: https://doi.org/10.1007/s00285-023-01984-8
   type: article
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00285-023-01984-8/MediaObjects/285_2023_1984_Fig2_HTML.png
+  image: publications/images/The effect of dispersal on asymptotic total population
+    size.png
   tags:
   - metapopulation
   - two-patch model
@@ -136,7 +137,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-023-01972-y/MediaObjects/285_2023_1972_Fig11_HTML.png?
+  image: publications/images/Spatial spread of infectious diseases with conditional
+    vector preferences.png
   tags:
   - epidemiology
   - spatial ecology
@@ -240,7 +242,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-021-00927-y/MediaObjects/11538_2021_927_Fig1_HTML.png
+  image: publications/images/Positioning ecological modelling for impact in ecosystems
+    management.png
   tags:
   - ecological modeling
   - ecosystem management
@@ -295,7 +298,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-020-00465-8/MediaObjects/12080_2020_465_Fig2_HTML.png?
+  image: publications/images/Threshold harvesting as a conservation or exploitation
+    strategy in population management.png
   tags:
   - harvesting
   - non-smooth
@@ -351,7 +355,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-020-00462-x/MediaObjects/12080_2020_462_Fig1_HTML.png
+  image: publications/images/Resource-harvester cycles caused by delayed knowledge
+    of the harvested population state.png
   tags:
   - harvesting
   - coupled human-environment system
@@ -391,7 +396,8 @@
   orcid: 0000-0001-5470-8889
   file: sources.yaml
   type: article
-  image: https://trs.silverchair-cdn.com/trs/content_public/journal/rsif/17/170/10.1098_rsif.2020.0566/4/m_rsif20200566f01.png?Expires=1777400089&Signature=etWR6Fnvz4ooUGF5OfCRDGEEsvwXpc9xeqivIH-V~r7Cx~j-IYeWu-2Pa7BekTB~WIKjcaAow5byBtWtwGMj~16kVLsvjZrM0mzESpo3n7ZHJUV22DAJ4Lu4yU2EB410ksQgBbN4Zk8KW7vYiJJYoqJ70uNy2Ca~mO-bM8pvcbMCDmtPz060rIoZMypnX3DbuH~crHo4destz8cJ4YklfD~Exu~6P0acBFbFbbtyvS7PMz4nJLJ2u9adYSAaS6cQRhPBLBamQc9AQfviPDEJzcTfwnInuOZVFt1QmRHvmJ8UrEdC7v-8DYT8GBopRppZcttRgs49TjhnZZHm-WhWfQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: publications/images/Forecasting resilience profiles of the run-up to regime
+    shifts.png
   tags:
   - early-warning signal
   - regime shift
@@ -431,7 +437,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-020-00750-x/MediaObjects/11538_2020_750_Fig3_HTML.png?
+  image: publications/images/Multiple attractors and long transients in spatially
+    structured populations with an Allee effect.png
   tags:
   - Allee effect
   - long transients
@@ -539,7 +546,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-019-01415-7/MediaObjects/285_2019_1415_Fig2_HTML.png?
+  image: publications/images/Proportional threshold harvesting.png
   tags:
   - harvesting
 - id: doi:10.1016/j.tpb.2019.07.016
@@ -571,7 +578,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-018-00546-0/MediaObjects/11538_2018_546_Fig5_HTML.png?
+  image: publications/images/Preytaxis and travelling waves in an eco-epidemiological
+    model.png
   tags:
   - biological invasion
   - traveling wave
@@ -630,7 +638,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11538-017-0325-y/MediaObjects/11538_2017_325_Fig6_HTML.gif?as=webp
+  image: publications/images/Diseased social predators.gif
   tags:
   - eco-epidemiology
   - functional response
@@ -683,7 +691,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://apsjournals.apsnet.org/cms/10.1094/PHYTO-03-17-0080-FI/asset/images/large/phyto-03-17-0080-fi_f1-1504944310054.jpeg
+  image: publications/images/Maize Lethal Necrosis in Kenya.jpg
   tags:
   - co-infection
   - plant disease
@@ -791,7 +799,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-016-0228-3/MediaObjects/11538_2016_228_Fig2_HTML.gif?
+  image: publications/images/Optimal culling and biocontrol in a predator-prey model.png
   tags:
   - optimal control
   - eco-epidemiology
@@ -810,7 +818,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00285-016-0966-8/MediaObjects/285_2016_966_Fig6_HTML.gif?
+  image: publications/images/The Fokker-Planck law of diffusion and pattern formation.png
   tags:
   - pattern formation
   - spatial ecology
@@ -890,7 +898,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-014-9957-3/MediaObjects/11538_2014_9957_Fig8_HTML.gif?
+  image: publications/images/Seasonal invasion dynamics in a spatially heterogeneous
+    river with fluctuating flows.png
   tags:
   - river ecosystem
   - spatial ecology
@@ -939,7 +948,8 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-013-9911-9/MediaObjects/11538_2013_9911_Fig2_HTML.gif?
+  image: publications/images/A mathematical biologist_ guide to absolute and convective
+    instability.png
   tags:
   - pattern formation
   - river ecosystem
@@ -958,7 +968,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0025556413002745-gr3.jpg
+  image: publications/images/Harvest timing and its population dynamic consequences.jpg
   tags:
   - harvesting
   - intervention timing
@@ -975,8 +985,9 @@
   orcid: 0000-0001-5470-8889
   plugin: sources.py
   file: sources.yaml
-  type: article
-  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-662-44140-4_3/MediaObjects/311610_1_En_3_Fig10_HTML.gif?
+  type: misc
+  image: publications/images/Harvesting and dynamics in some one-dimensional population
+    models.gif
   tags:
   - harvesting
   - discrete-time system
@@ -1009,7 +1020,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-013-9880-z/MediaObjects/11538_2013_9880_Fig6_HTML.gif?
+  image: publications/images/Complex dynamics in an eco-epidemiological model.gif
   tags:
   - eco-epidemiology
 - id: doi:10.1007/s12080-013-0200-x
@@ -1024,7 +1035,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-013-0200-x/MediaObjects/12080_2013_200_Fig1_HTML.gif?
+  image: publications/images/Disease in group-defending prey can benefit predators.png
   tags:
   - eco-epidemiology
 - id: doi:10.1016/j.ecocom.2013.02.002
@@ -1217,7 +1228,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12080-009-0062-4/MediaObjects/12080_2009_62_Fig1_HTML.gif?
+  image: publications/images/Predator-prey systems in streams and rivers.png
   tags:
   - river ecosystem
   - traveling wave
@@ -1286,7 +1297,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://www.journals.uchicago.edu/cms/10.1086/593357/asset/images/medium/fg3.gif
+  image: publications/images/The Allee effect and infectious diseases.png
   tags:
   - eco-epidemiology
   - epidemiology
@@ -1361,7 +1372,7 @@
   plugin: sources.py
   file: sources.yaml
   type: article
-  image: https://www.journals.uchicago.edu/cms/10.1086/an.2026.207.issue-4/asset/1701761b-6917-1761-c691-01761bc69170/cover.gif
+  image: publications/images/Preventing extinction and outbreaks in chaotic populations.png
   tags:
   - chaos
   - stabilization
@@ -1543,7 +1554,8 @@
   orcid: 0000-0001-5470-8889
   plugin: sources.py
   type: article
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature03627/MediaObjects/41586_2005_Article_BFnature03627_Fig1_HTML.jpg?
+  image: publications/images/Experimental demonstration of chaos in a microbial food
+    web.gif
   tags:
   - chaos
   - lab experiment
