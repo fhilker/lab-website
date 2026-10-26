@@ -68,10 +68,12 @@
           <!--{{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}-->
           {{- citation.date | default: "[no date info]" | date: "%Y" -}}
         </span>
+        <!-- No doi information
         &nbsp;·&nbsp;
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
+        -->
       </div>
 
       {% if include.style == "rich" %}
